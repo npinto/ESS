@@ -1,0 +1,4 @@
+
+07/04/2008 v1.1: added code to compile as library and added Python Wrapper
+
+24/03/2008 v1.0: Initial Release 
